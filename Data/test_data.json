@@ -6,18 +6,11 @@
       "productname": "Blackberry",
       "country" : "india"
     },
-     {
-      "username": "rahulshettyacademy",
-      "password": "learning",
-      "productname": "Nokia Edge",
-      "country" : "india"
-    },
     {
       "username": "rahulshettyacademy",
       "password": "learning",
       "productname": "Nokia Edge",
-      "country" : "india"
-
+      "country": "india"
     }
   ]
 }
